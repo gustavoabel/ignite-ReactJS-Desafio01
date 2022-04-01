@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./assets/project.gif" alt="Preview do projeto">
 </p>
